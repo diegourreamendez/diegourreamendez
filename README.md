@@ -5,11 +5,17 @@ Check all my projects here in https://github.com/diegourreamendez
 - 💞️ I'm looking to collaborate on engineering research projects.
 - 📫 How to reach me: Reach me sending me and email to dum834@alumnos.unican.es
 
+<details>
+<summary>My top languages</summary>
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
 |     2| Julia     |
 |     3| R         |
+
+  
+</details>
 
 <!--
 **diegourreamendez/diegourreamendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
