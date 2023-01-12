@@ -22,7 +22,6 @@ Check all my projects here in https://github.com/diegourreamendez
 |     2| Julia     |
 |     3| R         |
 
-![diegourreamendez GitHub stats](https://github-readme-stats.vercel.app/api?username=diegourreamendez&show_icons=true&theme=radical)
 <!--
 **diegourreamendez/diegourreamendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
