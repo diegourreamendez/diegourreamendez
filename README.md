@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m @diegourreamendez
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=diegourreamendez1&theme=dark)](https://git.io/streak-stats)
+
 Check all my projects here in https://github.com/diegourreamendez
 - 🔭 I’m currently working on on multivariate models for the analysis of compound extreme events in hydrology.
 - 👀 I’m interested in Hydrology, Hydraulics and Civil Engineering projects.
