@@ -11,6 +11,8 @@ Check all my projects here in https://github.com/diegourreamendez
 ***
 [![GitHub Streak](https://streak-stats.demolab.com?user=diegourreamendez&theme=tokyonight&border_radius=6)](https://git.io/streak-stats)
 
+### 🚀 My top languages
+***
 <details>
 <summary>My top languages</summary>
 
