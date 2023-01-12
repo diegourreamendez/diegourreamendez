@@ -1,4 +1,5 @@
 ### 👋 Hi, I’m @diegourreamendez
+***
 
 Check all my projects here in https://github.com/diegourreamendez
 - 🔭 I’m currently working on on multivariate models for the analysis of compound extreme events in hydrology.
@@ -6,6 +7,8 @@ Check all my projects here in https://github.com/diegourreamendez
 - 💞️ I'm looking to collaborate on engineering research projects.
 - 📫 How to reach me: Reach me sending me and email to dum834@alumnos.unican.es
 
+### 💻 Contributions
+***
 [![GitHub Streak](https://streak-stats.demolab.com?user=diegourreamendez&theme=tokyonight&border_radius=6)](https://git.io/streak-stats)
 
 <details>
