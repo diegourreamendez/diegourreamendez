@@ -22,7 +22,7 @@ Check all my projects here in https://github.com/diegourreamendez
 |     2| Julia     |
 |     3| R         |
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegourreamendez)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **diegourreamendez/diegourreamendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
