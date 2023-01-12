@@ -1,5 +1,4 @@
 ### 👋 Hi, I’m @diegourreamendez
-![diegourreamendez GitHub stats](https://github-readme-stats.vercel.app/api?username=diegourreamendez)](https://github.com/diegourreamendez/github-readme-stats)
 
 Check all my projects here in https://github.com/diegourreamendez
 - 🔭 I’m currently working on on multivariate models for the analysis of compound extreme events in hydrology.
