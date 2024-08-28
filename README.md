@@ -1,20 +1,21 @@
-### 👋 Hi, This is @diegourreamendez
+### 👋 Hi, I'm @diegourreamendez
 ***
 
-Check all my projects here in https://github.com/diegourreamendez
-- 🔭 I’m currently working on on multivariate models for the analysis of compound extreme events in hydrology.
-- 👀 I’m interested in Hydrology, Hydraulics and Civil Engineering projects.
-- 💞️ I'm looking to collaborate on engineering research projects.
-- 📫 How to reach me: Reach me sending me and email to dum834@alumnos.unican.es
+Welcome to my GitHub profile! Explore all my projects at [diegourreamendez on GitHub](https://github.com/diegourreamendez).
+
+- 🔭 Currently, I'm focused on developing multivariate models for the analysis of compound extreme events in hydrology.
+- 👀 My interests include Hydrology, Hydraulics, and Civil Engineering.
+- 💞️ I'm eager to collaborate on innovative engineering research projects.
+- 📫 You can reach me via email at dum834@alumnos.unican.es.
 
 ### 💻 Contributions
 ***
 [![GitHub Streak](https://streak-stats.demolab.com?user=diegourreamendez&theme=tokyonight&border_radius=6)](https://git.io/streak-stats)
 
-### 🚀 My top languages
+### 🚀 Top Languages
 ***
 <details>
-<summary>My top languages</summary>
+<summary>View my top programming languages</summary>
 
 | Rank | Languages |
 |-----:|-----------|
@@ -22,17 +23,5 @@ Check all my projects here in https://github.com/diegourreamendez
 |     2| Julia     |
 |     3| R         |
 
-<!--
-**diegourreamendez/diegourreamendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</details>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
