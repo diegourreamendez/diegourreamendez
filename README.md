@@ -27,7 +27,7 @@ Welcome to my GitHub profile! Explore all my projects at [diegourreamendez on Gi
 
 ### 📬 Contact Me
 ***
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/diegourreamendez/](https://www.linkedin.com/in/diego-urrea-mendez/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/diego-urrea-mendez/)
 - [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/diegourreamendez)
 - [![Email](https://img.shields.io/badge/Email-dum834@alumnos.unican.es-informational)](mailto:dum834@alumnos.unican.es)
 
