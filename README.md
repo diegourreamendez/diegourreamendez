@@ -35,5 +35,8 @@ Welcome to my GitHub profile! Explore all my projects at [diegourreamendez on Gi
 ***
 [![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegourreamendez&show_icons=true&theme=tokyonight)](https://github.com/diegourreamendez)
 
-![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+### 🗺️ 3D Contribution Graph
+***
+![3D Contribution Graph](https://github.com/diegourreamendez/diegourreamendez/blob/output/github-contribution-grid-snake.svg)
+
 
