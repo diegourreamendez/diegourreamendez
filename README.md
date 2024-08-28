@@ -8,9 +8,9 @@ Welcome to my GitHub profile! Explore all my projects at [diegourreamendez on Gi
 - 💞️ I'm eager to collaborate on innovative engineering research projects.
 - 📫 You can reach me via email at dum834@alumnos.unican.es.
 
-### 💻 Contributions
+### 📊 GitHub Stats
 ***
-[![GitHub Streak](https://streak-stats.demolab.com?user=diegourreamendez&theme=tokyonight&border_radius=6)](https://git.io/streak-stats)
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegourreamendez&show_icons=true&theme=tokyonight)](https://github.com/diegourreamendez)
 
 ### 🚀 Top Languages
 ***
@@ -25,18 +25,21 @@ Welcome to my GitHub profile! Explore all my projects at [diegourreamendez on Gi
 
 </details>
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Julia](https://img.shields.io/badge/Julia-1.6%2B-purple)
-![R](https://img.shields.io/badge/R-4.0%2B-blue)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-green)
-![VSCode](https://img.shields.io/badge/Editor-VSCode-blue)
-
-### 📊 GitHub Stats
+### 🔍 Featured Projects
 ***
-[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegourreamendez&show_icons=true&theme=tokyonight)](https://github.com/diegourreamendez)
+Here are a few of my notable projects:
+- [**Project Name 1**](https://github.com/diegourreamendez/project1): Brief description of what this project does.
+- [**Project Name 2**](https://github.com/diegourreamendez/project2): Brief description of what this project does.
+- [**Project Name 3**](https://github.com/diegourreamendez/project3): Brief description of what this project does.
 
-### 🗺️ 3D Contribution Graph
+### 📬 Contact Me
 ***
-![3D Contribution Graph](https://github.com/diegourreamendez/diegourreamendez/blob/output/github-contribution-grid-snake.svg)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/diegourreamendez/)
+- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/diegourreamendez)
+- [![Email](https://img.shields.io/badge/Email-dum834@alumnos.unican.es-informational)](mailto:dum834@alumnos.unican.es)
+
+### 🌟 Motto
+***
+"Strive not to be a success, but rather to be of value." - Albert Einstein
 
 
