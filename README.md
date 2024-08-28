@@ -30,3 +30,7 @@ Welcome to my GitHub profile! Explore all my projects at [diegourreamendez on Gi
 ![R](https://img.shields.io/badge/R-4.0%2B-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-Profile-green)
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue)
+
+### 📊 GitHub Stats
+***
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegourreamendez&show_icons=true&theme=tokyonight)](https://github.com/diegourreamendez)
