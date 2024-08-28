@@ -25,13 +25,6 @@ Welcome to my GitHub profile! Explore all my projects at [diegourreamendez on Gi
 
 </details>
 
-### 🔍 Featured Projects
-***
-Here are a few of my notable projects:
-- [**Project Name 1**](https://github.com/diegourreamendez/project1): Brief description of what this project does.
-- [**Project Name 2**](https://github.com/diegourreamendez/project2): Brief description of what this project does.
-- [**Project Name 3**](https://github.com/diegourreamendez/project3): Brief description of what this project does.
-
 ### 📬 Contact Me
 ***
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/diegourreamendez/)
