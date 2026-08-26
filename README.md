@@ -12,7 +12,7 @@ I'm a passionate **Hydrologist and Data Scientist** specializing in extreme weat
 ```python
 class Diego:
     def __init__(self):
-        self.role = "PhD Student & Researcher"
+        self.role = "PhD"
         self.location = "Santander, Spain 🇪🇸"
         self.education = "Universidad de Cantabria"
         self.focus = ["Extreme Events", "Multivariate Statistics", "Climate Risk"]
