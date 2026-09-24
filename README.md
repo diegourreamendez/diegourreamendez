@@ -74,10 +74,6 @@ class Diego:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegourreamendez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/diegourreamendez)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegourreamendez&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/diegourreamendez)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=diegourreamendez&theme=github-dark-blue&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
@@ -133,7 +129,6 @@ class Diego:
 - 📄 **Publications**: Contributing to peer-reviewed journals in hydrology and water resources
 - 🎓 **PhD**: Civil Engineering, Universidad de Cantabria
 - 💻 **Open Source**: Developing R/Python packages for hydrological analysis
-- 🎥 **Science Communication**: Run Aquapy Ingeniería, a YouTube channel on data science, Python, and applied statistics
 - 🗣️ **Presentations**: Conference presentations at international hydrology symposiums
 
 ## 🤝 Let's Collaborate!
@@ -150,7 +145,6 @@ I'm always excited to work on innovative projects related to:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-urrea-mendez/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AquapyIngenieria)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.diegourrea.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/diegourreamend1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dum834@alumnos.unican.es)
