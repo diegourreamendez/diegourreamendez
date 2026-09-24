@@ -1,29 +1,31 @@
 # 👋 ¡Hola! I'm Diego Urrea Méndez
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hydrologist+%26+Data+Scientist;Extreme+Events+Researcher;Python+%7C+Julia+%7C+R+Developer;Civil+Engineering+PhD+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hydrologist+%26+Data+Scientist;Extreme+Events+Researcher;Python+%7C+Julia+%7C+R+Developer;NLP+%26+ML+for+Climate+Risk)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Hydrologist and Data Scientist** specializing in extreme weather events and their impact on water resources. Currently pursuing my PhD in Civil Engineering, I combine advanced statistical modeling with cutting-edge machine learning techniques to understand and predict compound hydrological extremes.
+I'm a **Hydrologist and Data Scientist** specializing in extreme weather events and their impact on water resources. I hold a PhD in Civil Engineering and currently work at IHCantabria, where I combine advanced statistical modeling, NLP, and machine learning to understand and predict compound hydrological extremes.
 
 ```python
 class Diego:
     def __init__(self):
-        self.role = "PhD"
+        self.role = "PhD, Data Scientist"
+        self.affiliation = "IHCantabria"
         self.location = "Santander, Spain 🇪🇸"
-        self.education = "Universidad de Cantabria"
-        self.focus = ["Extreme Events", "Multivariate Statistics", "Climate Risk"]
+        self.education = "PhD, Universidad de Cantabria"
+        self.focus = ["Extreme Events", "Multivariate Statistics", "Climate Risk", "NLP & LLMs"]
         self.languages = ["Python", "Julia", "R", "MATLAB"]
-        self.interests = ["Machine Learning", "Time Series Analysis", "Copulas"]
+        self.interests = ["Machine Learning", "NLP", "Time Series Analysis", "Copulas"]
     
     def current_projects(self):
         return [
             "🌊 Compound extreme events modeling",
             "📊 Multivariate copula analysis",
-            "🤖 ML for hydrological forecasting",
+            "🤖 LLM pipelines for text classification & RAG",
+            "📚 Topic modeling for bibliometric research",
             "📈 Statistical downscaling methods"
         ]
 ```
@@ -32,6 +34,7 @@ class Diego:
 
 - 🔬 **Research Focus**: Developing advanced multivariate models for compound extreme events in hydrology
 - 🌡️ **Climate Impact**: Analyzing the intersection of temperature, precipitation, and flood events
+- 🤖 **NLP & LLMs**: Building classification pipelines, topic modeling, and RAG systems for scientific and disaster-related text
 - 📊 **Data Science**: Building robust statistical frameworks for environmental risk assessment
 - 🤝 **Collaboration**: Open to interdisciplinary research in climate science and water resources
 
@@ -50,6 +53,12 @@ class Diego:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### NLP & LLMs
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Visualization & Analysis
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -100,11 +109,11 @@ class Diego:
 <tr>
 <td width="50%">
 
-**🤖 Machine Learning Applications**
+**🤖 Machine Learning & NLP**
 - Ensemble methods for forecasting
-- Deep learning for pattern recognition
+- LLM-based classification and RAG
+- Topic modeling
 - Uncertainty quantification
-- Feature engineering for climate data
 
 </td>
 <td width="50%">
@@ -122,8 +131,9 @@ class Diego:
 ## 🏆 Recent Achievements
 
 - 📄 **Publications**: Contributing to peer-reviewed journals in hydrology and water resources
-- 🎓 **PhD Progress**: Advanced coursework in statistical hydrology and extreme value analysis
+- 🎓 **PhD**: Civil Engineering, Universidad de Cantabria
 - 💻 **Open Source**: Developing R/Python packages for hydrological analysis
+- 🎥 **Science Communication**: Run Aquapy Ingeniería, a YouTube channel on data science, Python, and applied statistics
 - 🗣️ **Presentations**: Conference presentations at international hydrology symposiums
 
 ## 🤝 Let's Collaborate!
@@ -132,7 +142,7 @@ I'm always excited to work on innovative projects related to:
 
 - 🌊 **Water Resources Management**
 - 📊 **Environmental Data Analysis** 
-- 🤖 **Climate Machine Learning**
+- 🤖 **Climate Machine Learning & NLP**
 - 🔬 **Interdisciplinary Research**
 
 ## 📬 Connect With Me
@@ -140,6 +150,8 @@ I'm always excited to work on innovative projects related to:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-urrea-mendez/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AquapyIngenieria)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.diegourrea.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/diegourreamend1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dum834@alumnos.unican.es)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Diego-Urrea-Mendez/research)
